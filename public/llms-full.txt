@@ -2,13 +2,13 @@
 
 ברוכים הבאים לאתר רנואר -בגדים ונעליים לנשים וגברים מהטרנדים הכי חמים! כאן תמצאו אאוטפיט לכל מטרה - אירועים מיוחדים, עבודה, יומיום או לים - הכל במקום אחד, אונליין.
 
-Source: https://renuar-6f121752.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Renuar | Fashion &amp; Apparel
 
-URL: https://renuar-6f121752.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים לאתר רנואר -בגדים ונעליים לנשים וגברים מהטרנדים הכי חמים! כאן תמצאו אאוטפיט לכל מטרה - אירועים מיוחדים, עבודה, יומיום או לים - הכל במקום אחד, אונלי
 
 Renuar | Fashion & Apparel
@@ -381,7 +381,7 @@ Add at least one more item to compare.
 
 ## חיפוש — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/search
+URL: https://example.com/search
 Description: חיפוש | Renuar
 
 חיפוש — Renuar
@@ -685,7 +685,7 @@ NEW ARRIVALS
 
 ## YOUR CART — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/cart
+URL: https://example.com/cart
 Description: YOUR CART | Renuar
 
 YOUR CART — Renuar
@@ -1196,7 +1196,7 @@ NEW ARRIVALS
 
 ## NEW ARRIVALS — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-new
+URL: https://example.com/collections/women-new
 Description: NEW ARRIVALS | Renuar
 
 NEW ARRIVALS — Renuar
@@ -1969,7 +1969,7 @@ STRAIGHT  (2)
 
 ## כל הבגדים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-clothing
+URL: https://example.com/collections/women-clothing
 Description: כל הבגדים | Renuar
 
 כל הבגדים — Renuar
@@ -2621,7 +2621,7 @@ STRAIGHT  (2)
 
 ## ג&#39;ינסים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-jeans
+URL: https://example.com/collections/women-jeans
 Description: ג&#39;ינסים | Renuar
 
 ג'ינסים — Renuar
@@ -2861,7 +2861,7 @@ STRAIGHT
 
 ## מכנסיים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-pants
+URL: https://example.com/collections/women-pants
 Description: מכנסיים | Renuar
 
 מכנסיים — Renuar
@@ -3489,7 +3489,7 @@ XL  (8)
 
 ## חולצות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-shirts
+URL: https://example.com/collections/women-shirts
 Description: חולצות | Renuar
 
 חולצות — Renuar
@@ -4061,7 +4061,7 @@ OS  (1)
 
 ## טישירטים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-tshirts
+URL: https://example.com/collections/women-tshirts
 Description: טישירטים | Renuar
 
 טישירטים — Renuar
@@ -4573,7 +4573,7 @@ XL  (11)
 
 ## שמלות וחצאיות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-dresses-and-skirts
+URL: https://example.com/collections/women-dresses-and-skirts
 Description: שמלות וחצאיות | Renuar
 
 שמלות וחצאיות — Renuar
@@ -5264,7 +5264,7 @@ XL  (12)
 
 ## שורטים וברמודות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-shorts
+URL: https://example.com/collections/women-shorts
 Description: שורטים וברמודות | Renuar
 
 שורטים וברמודות — Renuar
@@ -5895,7 +5895,7 @@ BERMUDA & SHORTS  (10)
 
 ## חולצות מכופתרות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-buttoned-down
+URL: https://example.com/collections/women-buttoned-down
 Description: חולצות מכופתרות | Renuar
 
 חולצות מכופתרות — Renuar
@@ -6358,7 +6358,7 @@ Most relevant
 
 ## מעילים, ג&#39;קטים ווסטים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-coats-and-jackets
+URL: https://example.com/collections/women-coats-and-jackets
 Description: מעילים, ג&#39;קטים ווסטים | Renuar
 
 מעילים, ג'קטים ווסטים — Renuar
@@ -6857,7 +6857,7 @@ XL  (2)
 
 ## בלייזרים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-blazers
+URL: https://example.com/collections/women-blazers
 Description: בלייזרים | Renuar
 
 בלייזרים — Renuar
@@ -7197,7 +7197,7 @@ UP TO 50% OFF
 
 ## בגדי ים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-swim-wear
+URL: https://example.com/collections/women-swim-wear
 Description: בגדי ים | Renuar
 
 בגדי ים — Renuar
@@ -7793,7 +7793,7 @@ L  (2)
 
 ## מגפיים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-boots
+URL: https://example.com/collections/women-boots
 Description: מגפיים | Renuar
 
 מגפיים — Renuar
@@ -8095,7 +8095,7 @@ NEW ARRIVALS
 
 ## סניקרס — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-snickers
+URL: https://example.com/collections/women-snickers
 Description: סניקרס | Renuar
 
 סניקרס — Renuar
@@ -8275,7 +8275,7 @@ Description: סניקרס | Renuar
 
 ## נעליים שטוחות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-flats
+URL: https://example.com/collections/women-flats
 Description: נעליים שטוחות | Renuar
 
 נעליים שטוחות — Renuar
@@ -8870,7 +8870,7 @@ OFF
 
 ## נעלי עקב — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-heels
+URL: https://example.com/collections/women-heels
 Description: נעלי עקב | Renuar
 
 נעלי עקב — Renuar
@@ -9150,7 +9150,7 @@ UP TO 50% OFF
 
 ## תיקים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-bags
+URL: https://example.com/collections/women-bags
 Description: תיקים | Renuar
 
 תיקים — Renuar
@@ -9439,7 +9439,7 @@ Description: תיקים | Renuar
 
 ## חגורות — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-belts
+URL: https://example.com/collections/women-belts
 Description: חגורות | Renuar
 
 חגורות — Renuar
@@ -9866,7 +9866,7 @@ OFF
 
 ## כובעים וצעיפים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-hats-and-scarves
+URL: https://example.com/collections/women-hats-and-scarves
 Description: כובעים וצעיפים | Renuar
 
 כובעים וצעיפים — Renuar
@@ -10144,7 +10144,7 @@ The White Edit
 
 ## תחתונים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-underwear
+URL: https://example.com/collections/women-underwear
 Description: תחתונים | Renuar
 
 תחתונים — Renuar
@@ -10774,7 +10774,7 @@ XL  (4)
 
 ## גרביים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-socks
+URL: https://example.com/collections/women-socks
 Description: גרביים | Renuar
 
 גרביים — Renuar
@@ -11095,7 +11095,7 @@ The White Edit
 
 ## גרביונים — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-tights
+URL: https://example.com/collections/women-tights
 Description: גרביונים | Renuar
 
 גרביונים — Renuar
@@ -11389,7 +11389,7 @@ UP TO 50% OFF
 
 ## ג&#39;ינסים ומכנסיים החל מ-79.90 ₪ — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-pants-starting-from-79-90
+URL: https://example.com/collections/women-pants-starting-from-79-90
 Description: ג&#39;ינסים ומכנסיים החל מ-79.90 ₪ | Renuar
 
 ג'ינסים ומכנסיים החל מ-79.90 ₪ — Renuar
@@ -11713,7 +11713,7 @@ UP TO 50% OFF
 
 ## פריטים ב-50% הנחה — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/collections/women-50off-items
+URL: https://example.com/collections/women-50off-items
 Description: פריטים ב-50% הנחה | Renuar
 
 פריטים ב-50% הנחה — Renuar
@@ -12075,7 +12075,7 @@ UP TO 50% OFF
 
 ## Renuar | Fashion &amp; Apparel
 
-URL: https://renuar-6f121752.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים לאתר רנואר -בגדים ונעליים לנשים וגברים מהטרנדים הכי חמים! כאן תמצאו אאוטפיט לכל מטרה - אירועים מיוחדים, עבודה, יומיום או לים - הכל במקום אחד, אונלי
 
 Renuar | Fashion & Apparel
@@ -12448,7 +12448,7 @@ Add at least one more item to compare.
 
 ## בגדי נשים אונליין — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/pages/women
+URL: https://example.com/pages/women
 Description: בגדי נשים אונליין | Renuar
 
 בגדי נשים אונליין — Renuar
@@ -12930,7 +12930,7 @@ VIEW ALL
 
 ## בגדי גברים אונליין — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/pages/men
+URL: https://example.com/pages/men
 Description: בגדי גברים אונליין | Renuar
 
 בגדי גברים אונליין — Renuar
@@ -13392,7 +13392,7 @@ VIEW ALL
 
 ## צור קשר — Renuar
 
-URL: https://renuar-6f121752.zappy5.app/pages/contact
+URL: https://example.com/pages/contact
 Description: צור קשר | Renuar
 
 צור קשר — Renuar
@@ -13940,7 +13940,7 @@ Category
 
 ## מדיניות פרטיות
 
-URL: https://renuar-6f121752.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -14197,7 +14197,7 @@ Renuar ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 ## הצהרת נגישות
 
-URL: https://renuar-6f121752.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -14463,7 +14463,7 @@ Renuar מחויבת להנגיש את השירותים לכלל הציבור. א
 
 ## תנאי שימוש
 
-URL: https://renuar-6f121752.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -14748,7 +14748,7 @@ Renuar מספקת Fashion & Apparel דרך האתר. השירותים כפופי
 
 ## תודה רבה - Renuar
 
-URL: https://renuar-6f121752.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: הודעתך התקבלה בהצלחה. נחזור אלייך בהקדם האפשרי.
 
 תודה רבה - Renuar
