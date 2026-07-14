@@ -164,7 +164,7 @@ Information about WCAG compliance and accessibility features.
   - `phone` (tel, required)
   - `birthdate` (text)
   - `firstname` (text)
-  - `privacy_consent` (checkbox)
+  - `privacy_consent` (checkbox, required)
 
 ---
 
