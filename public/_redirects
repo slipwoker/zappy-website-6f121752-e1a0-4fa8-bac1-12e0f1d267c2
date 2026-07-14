@@ -1,0 +1,48 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-07-14T18:00:53.113Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/search  /search.html  200!
+/cart  /cart.html  200!
+/collections/women-new  /collections/women-new.html  200!
+/collections/women-clothing  /collections/women-clothing.html  200!
+/collections/women-jeans  /collections/women-jeans.html  200!
+/collections/women-pants  /collections/women-pants.html  200!
+/collections/women-shirts  /collections/women-shirts.html  200!
+/collections/women-tshirts  /collections/women-tshirts.html  200!
+/collections/women-dresses-and-skirts  /collections/women-dresses-and-skirts.html  200!
+/collections/women-shorts  /collections/women-shorts.html  200!
+/collections/women-buttoned-down  /collections/women-buttoned-down.html  200!
+/collections/women-coats-and-jackets  /collections/women-coats-and-jackets.html  200!
+/collections/women-blazers  /collections/women-blazers.html  200!
+/collections/women-swim-wear  /collections/women-swim-wear.html  200!
+/collections/women-boots  /collections/women-boots.html  200!
+/collections/women-snickers  /collections/women-snickers.html  200!
+/collections/women-flats  /collections/women-flats.html  200!
+/collections/women-heels  /collections/women-heels.html  200!
+/collections/women-bags  /collections/women-bags.html  200!
+/collections/women-belts  /collections/women-belts.html  200!
+/collections/women-hats-and-scarves  /collections/women-hats-and-scarves.html  200!
+/collections/women-underwear  /collections/women-underwear.html  200!
+/collections/women-socks  /collections/women-socks.html  200!
+/collections/women-tights  /collections/women-tights.html  200!
+/collections/women-pants-starting-from-79-90  /collections/women-pants-starting-from-79-90.html  200!
+/collections/women-50off-items  /collections/women-50off-items.html  200!
+/pages/women  /pages/women.html  200!
+/pages/men  /pages/men.html  200!
+/pages/contact  /pages/contact.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/thank-you  /thank-you.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# SPA fallback - serve index.html for all unmatched routes
+/*  /index.html  200
